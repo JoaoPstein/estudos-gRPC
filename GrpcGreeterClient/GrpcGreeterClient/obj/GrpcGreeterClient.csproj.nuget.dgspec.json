@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gamer\\source\\estudos-gRPC\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj": {}
+    "C:\\Users\\Gamer\\source\\repos\\estudos-gRPC\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gamer\\source\\estudos-gRPC\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj": {
+    "C:\\Users\\Gamer\\source\\repos\\estudos-gRPC\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gamer\\source\\estudos-gRPC\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
+        "projectUniqueName": "C:\\Users\\Gamer\\source\\repos\\estudos-gRPC\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
         "projectName": "GrpcGreeterClient",
-        "projectPath": "C:\\Users\\Gamer\\source\\estudos-gRPC\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
+        "projectPath": "C:\\Users\\Gamer\\source\\repos\\estudos-gRPC\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
         "packagesPath": "C:\\Users\\Gamer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gamer\\source\\estudos-gRPC\\GrpcGreeterClient\\GrpcGreeterClient\\obj\\",
+        "outputPath": "C:\\Users\\Gamer\\source\\repos\\estudos-gRPC\\GrpcGreeterClient\\GrpcGreeterClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,7 +52,21 @@
               "target": "Package",
               "version": "[3.25.2, )"
             },
+            "Grpc": {
+              "target": "Package",
+              "version": "[2.46.6, )"
+            },
+            "Grpc.Core": {
+              "target": "Package",
+              "version": "[2.46.6, )"
+            },
             "Grpc.Net.Client": {
+              "target": "Package",
+              "version": "[2.60.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.60.0, )"
             }

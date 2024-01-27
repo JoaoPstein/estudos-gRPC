@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tHvZdKkh3R49sS7siwZdcvwhX+PKZOBvUlPvK6mzJafOmr0J1kqW4jBT5dFyLkcrzWV1r8g9k5HTh9C1MbIwsg==",
+  "dgSpecHash": "u3NBni4bCC/enwMsAQlT4knOiWgObB7GdFhbPGjTgMDiaIQl4SnDR6UgNxRjDiMCMUmdmHphZcKNPgR2mWs5GQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gamer\\source\\estudos-gRPC\\Estudos.GrpcService\\GrpcService\\GrpcService.csproj",
+  "projectFilePath": "C:\\Users\\Gamer\\source\\repos\\estudos-gRPC\\Estudos.GrpcService\\GrpcService\\GrpcService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gamer\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",
     "C:\\Users\\Gamer\\.nuget\\packages\\grpc.aspnetcore\\2.40.0\\grpc.aspnetcore.2.40.0.nupkg.sha512",
